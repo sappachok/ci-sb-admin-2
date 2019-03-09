@@ -1,1 +1,1 @@
-# ci-sb-admin-2
+# Codigniter + SB Admin 2 Template
